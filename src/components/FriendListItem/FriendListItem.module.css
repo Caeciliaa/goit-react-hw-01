@@ -1,0 +1,26 @@
+.avatarImg {
+  width: 80px;
+  height: 80px;
+  margin-bottom: 15px;
+}
+
+.avatarTitle {
+  font-size: 24px;
+  color: black;
+  text-align: center;
+  margin: 0;
+}
+
+.avatarStatus {
+  font-size: 20px;
+  text-align: center;
+  margin: 0;
+}
+
+.isOnline {
+  color: green;
+}
+
+.isOffline {
+  color: red;
+}
